@@ -1,0 +1,7 @@
+name: Povejnaprej.org
+markdown: redcarpet
+pygments: true
+exclude: [TODO, README.md]
+ga: 'UA-6800570-1'
+lsi: false
+safe: true
